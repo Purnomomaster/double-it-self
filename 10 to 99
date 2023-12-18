@@ -1,0 +1,8 @@
+test = range(10,100)
+
+for num in test:
+  n = 1
+  for digit in str(num):
+    n = n + int(digit)
+  if num == n*2
+  print(num)
